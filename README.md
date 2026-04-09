@@ -3,19 +3,15 @@
 ## 1.2 React vs. Vanilla JavaScript
 ## 1.3 React Nedir?
 ## 1.4 Geliştirme Ortamı
-Pure React, Create-React-App ve modern kurulum seçenekleri.
 ## 1.5Resmi Dokümantasyon
-React belgelerini nasıl okumalı ve kullanmalısın?
 
 # 2. Bileşenler ve JSX
 ## 2.1 Bileşenler
 ## 2.2 JSX Nedir?
 ## 2.3 JSX Kuralları
 ## 2.4 Props Mantığı
-Props nedir, neden değiştirilemez ve "tek yönlü veri akışı" nedir?
 ## 2.5 Prop Destructuring
 ## 2.6 Fragments
-DOM'da gereksiz <div> kalabalığından kurtulma
 
 # 3.State ve "Thinking in React"
 ## 3.1 State Nedir?
