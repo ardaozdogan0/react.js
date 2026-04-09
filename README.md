@@ -5,7 +5,7 @@
 ## 1.2 React vs. Vanilla JavaScript✅
 ## 1.3 React Nedir?✅
 ## 1.4 Geliştirme Ortamı✅
-## 1.5Resmi Dokümantasyon✅
+## 1.5 Resmi Dokümantasyon✅
 
 # 2. Bileşenler ve JSX
 ## 2.1 Bileşenler⌛
