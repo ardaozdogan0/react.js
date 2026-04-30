@@ -8,30 +8,30 @@
 ## 1.5 Resmi Dokümantasyon✅
 
 # 2. Bileşenler ve JSX
-## 2.1 Bileşenler⌛
-## 2.2 JSX Nedir?⌛
-## 2.3 JSX Kuralları⌛
-## 2.4 Props Mantığı⌛
-## 2.5 Prop Destructuring⌛
-## 2.6 Fragments⌛
+## 2.1 Bileşenler✅
+## 2.2 JSX Nedir?✅
+## 2.3 JSX Kuralları✅
+## 2.4 Props Mantığı✅
+## 2.5 Prop Destructuring✅
+## 2.6 Fragments✅
 
 # 3.State ve "Thinking in React"
-## 3.1 State Nedir?⌛
-## 3.2 Olay Yönetimi (Events)⌛
-## 3.3 useState Hook⌛
-## 3.4 State Mekaniği⌛
-## 3.5 Thinking in React⌛
-## 3.6 Lifting State Up⌛
-## 3.7 Derived State⌛
+## 3.1 State Nedir?✅
+## 3.2 Olay Yönetimi (Events)✅
+## 3.3 useState Hook✅
+## 3.4 State Mekaniği✅
+## 3.5 Thinking in React✅
+## 3.6 Lifting State Up✅
+## 3.7 Derived State✅
 
 # 4. React Nasıl Çalışır? (Arka Plan)
-## 4.1 Virtual DOM Nedir?⌛
-## 4.2 Bileşenler vs. Örnekler vs. Elementler⌛
-## 4.3 Render Süreci⌛
-## 4.4 Diffing Algoritması⌛
-## 4.5 Key Prop⌛
-## 4.6 Pure Components⌛
-## 4.7 Batching⌛
+## 4.1 Virtual DOM Nedir?✅
+## 4.2 Bileşenler vs. Örnekler vs. Elementler✅
+## 4.3 Render Süreci✅
+## 4.4 Diffing Algoritması✅
+## 4.5 Key Prop✅
+## 4.6 Pure Components✅
+## 4.7 Batching✅
 
 # 5. Effects, Data Fetching ve Hook Kuralları
 ## 5.1 Bileşen Yaşam Döngüsü (Lifecycle)⌛
